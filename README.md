@@ -10,7 +10,7 @@ Below are courses I have completed on lab.github.com/courses:
 </br>
 <h4> Courses </h4>
 <ol>
-  <li> First Day on GitHub </li>
+  <li> First Day on GitHub. [Insert converstational paragraph desc. about what I actually did] </li>
   <li> First Week on Github </li>
 </ol>
 <br>

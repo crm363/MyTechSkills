@@ -50,3 +50,6 @@ This is where I will put my skills learned in Power BI and the accompanying dash
 <br>
 <br>
 </details>
+
+<br>
+<h3> Fin </h3>

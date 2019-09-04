@@ -1,7 +1,7 @@
 <h1> MyTechSkills </h1>
 Hi, I'm Colin Morgan; I am a MAcc student at the University of Tulsa. Here is a list of my technical skills!
 
-<details><summary><h2>GitHub Learning Lab</h2></summary>
+<details><summary>GitHub Learning Lab</summary>
 <br> 
 Below are courses I have completed on lab.github.com/courses:
 </br>

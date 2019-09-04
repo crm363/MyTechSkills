@@ -2,6 +2,7 @@
 Hi, I'm Colin Morgan; I am a MAcc student at the University of Tulsa. Here is a list of my technical skills!
 
 <h3> Technical Skills </h3>
+<img src="39mr7s.png">
 
 <details><summary>GitHub Learning Lab</summary>
 <br> 

@@ -19,7 +19,7 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
 
 <details><summary>Power BI + Dashboard</summary>
 <br>
-This is where I will put my skills learned in Power BI and the accompanying dashboard
+I conpleted the course Analyzing and Visualizing Data with Power BI on edX.org (below is the course overview). By completing this course, I learned how to upuload and manipulate data in Power BI... All of this culminated with me creating a custom dashboard from a set of assigned data. I have added a video to showcase my dashboard.
 <br>
 <br>
 </details>

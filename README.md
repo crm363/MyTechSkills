@@ -9,11 +9,11 @@ Hi, I'm Colin Morgan; I am a MAcc student at the University of Tulsa. Here is a 
 Below are courses I have completed on lab.github.com/courses:
 </br>
 <h4> Courses </h4>
-<ol>
+<ul>
   <li> First Day on GitHub. [Insert converstational paragraph desc. about what I actually did] </li>
   <li> First Week on Github </li>
   <li> Through these trainings, I learned how to create my own webpage on GitHub and make it viewable to the public. I also learned how to navigate the GitHub workflow which took a bit of practice. I worked on creating, reviewing, and accepting pull requests; and managing and resolving pull requests. </li>
-</ol>
+</ul>
 <br>
 </details>
 

@@ -20,7 +20,7 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
 <br>
 <ul>
 <li> I completed the course Analyzing and Visualizing Data with Power BI on edX.org (below is the course overview). By completing this course, I learned how to upload and manipulate data, define relationships of data and edit queries. I also learned to connect to external data from sources like SQL on Azure. All of this culminated with me creating a custom dashboard from a set of assigned data. This dashboard was then shared to be used on various platforms. </li>
-  <li> https://youtu.be/HLRVrwNOCmI "Dashboard Video" </li>
+  <li> [Dashboard Video] https://youtu.be/HLRVrwNOCmI </li>
   </ul>
 <img src="Power BI.png" alt="BI">
 <img src="Dashboard.png" alt="Dash">

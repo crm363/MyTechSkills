@@ -36,6 +36,7 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
 <img src="Linux.png" alt="Linux Cert"
 <br>
 <br>
+  </details>
 </details>
 
 <details><summary>VPN</summary>

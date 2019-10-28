@@ -43,7 +43,7 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
   <ul>
     <li>I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial provided by trailofbits on GitHub. Through the tutorial provided, I was able to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.</li>
   </ul>
-  <img src="Congrats" alt="confirm">
+  <img src="Congrats.png" alt="confirm">
 <br>
 <br>
 </details>

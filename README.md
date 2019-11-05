@@ -31,7 +31,7 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
 <details><summary>Linux</summary>
 <br>
 <ul>
-<li> On Linuxaccademy.com, I completed the course LPI Linux Essentials course. Through this course I learned the basics of the Linux comamnd lines including beginner commands along with their respective tacs, commands to change directories and modify files, commands to view system information, and commands to view and alter users and groups along with permissions. </li>
+<li> On LinuxAcademy.com, I completed the course LPI Linux Essentials course. Through this course I learned the basics of the Linux comamnd lines including beginner commands along with their respective tacs, commands to change directories and modify files, commands to view system information, and commands to view and alter users and groups along with permissions. </li>
   </ul>
 <img src="Linux.png" alt="cert">
 <br>
@@ -51,7 +51,7 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
 <details><summary>Amazon Web Services</summary>
 <br>
   <ul>
-    <li>I completed the AWS </li>
+    <li>I completed the AWS Essentials training course on LinuxAcademy.com. I leanred the basics of Amazon Management Console, Identity and Access Management (IAM), Virtual Private Cloud, Elastic Cloud Compute, Simple Storage Service, Simple Notification System, CloudWatch and CloudTrail management tools, and serverless computing.</li>
   </ul>
   <img src="AWS Cert.png" alt="awscert">
 <br>

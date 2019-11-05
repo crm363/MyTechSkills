@@ -48,9 +48,12 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
 <br>
 </details>
 
-<details><summary>PowerShell 5</summary>
+<details><summary>Amazon Web Services</summary>
 <br>
-[Insert skills here]
+  <ul>
+    <li>I completed the AWS </li>
+  </ul>
+  <img src="AWS Cert.png" alt="awscert">
 <br>
 <br>
 </details>

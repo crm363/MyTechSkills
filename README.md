@@ -36,9 +36,6 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
   </ul>
 <img src="Linux.png" alt="cert">
   <br>
-  <ul>
-    <li>I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial provided by trailofbits on GitHub. Through the tutorial provided, I was able to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.</li>
-  </ul>
   <img src="Congrats.png" alt="confirm">
 <br>
 <br>
@@ -48,6 +45,7 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
 <br>
   <ul>
     <li>I completed the AWS Essentials training course on LinuxAcademy.com. I leanred the basics of Amazon Management Console, Identity and Access Management (IAM), Virtual Private Cloud, Elastic Cloud Compute, Simple Storage Service, Simple Notification System, CloudWatch and CloudTrail management tools, and serverless computing.</li>
+    <li>Through the AWS EC2 Management Console, I installed 
   </ul>
   <img src="AWS Cert.png" alt="awscert">
 <br>

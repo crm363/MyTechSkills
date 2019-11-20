@@ -55,9 +55,9 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
 <details><summary>PowerShell</summary>
 <br>
   <ul>
-    <li>I Completed the PowerShell 5 Essential training through LinkedIn Learning.</li>
+    <li>I Completed the PowerShell 5 Essential training through LinkedIn Learning. </li>
   </ul>
-  <img src="PS5Cert.png" alt="another cert">
+  <img src="PS5Cert.pdf" alt="another cert">
 <br>
 <br>
 </details>

@@ -45,7 +45,7 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
 <br>
   <ul>
     <li>I completed the AWS Essentials training course on LinuxAcademy.com. I leanred the basics of Amazon Management Console, Identity and Access Management (IAM), Virtual Private Cloud, Elastic Cloud Compute, Simple Storage Service, Simple Notification System, CloudWatch and CloudTrail management tools, and serverless computing.</li>
-    <li>Through the AWS EC2 Management Console, I installed 
+    <li>Through the AWS EC2 Management Console, I installed an OpenVPN Access Server
   </ul>
   <img src="AWS Cert.png" alt="awscert">
 <br>

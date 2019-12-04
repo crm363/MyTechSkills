@@ -19,7 +19,7 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
 <details><summary>Power BI + Dashboard</summary>
 <br>
 <ul>
-  <li> I completed the course Analyzing and Visualizing Data with Power BI on edX.org (below is the course overview). By completing this course, I learned how to upload and manipulate data, define relationships of data and edit queries. I also learned to connect to external data from sources like SQL on Azure. All of this culminated with me creating a custom dashboard from a set of assigned data. This dashboard was then shared to be used on various platforms. </li>
+  <li> I completed the course Analyzing and Visualizing Data with Power BI on edX.org (below is the course overview). By completing this course, I learned how to upload and manipulate data, define relationships of data and edit queries. I also learned to connect to external data from sources like SQL on Azure. All of this culminated with me creating a custom dashboard from a set of assigned data. This dashboard was then shared to be used on various platforms. From this course, I gained an overall understanding of how to manipulate and vizualize data for the purpose of creating an effective and efficient dashboard.</li>
   <li> <a href="https://youtu.be/HLRVrwNOCmI">Dashboard Video </a>  </li>
   </ul>
 <img src="Power BI.png" alt="BI">
@@ -57,7 +57,7 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
   <ul>
     <li>I Completed the PowerShell 5 Essential training through LinkedIn Learning. </li>
   </ul>
-  <img src="PS5Cert.png" alt="another cert">
+  <img src="Powershell.png" alt="another cert">
 <br>
 <br>
 </details>

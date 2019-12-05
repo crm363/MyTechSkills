@@ -68,6 +68,3 @@ Below are courses I have completed on lab.github.com/courses:
 <br>
 <br>
 </details>
-
-<br>
-<h3> Fin </h3>

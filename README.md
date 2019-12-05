@@ -55,7 +55,7 @@ Through these trainings, I learned how to create my own webpage on GitHub and ma
 <details><summary>PowerShell</summary>
 <br>
   <ul>
-    <li>I Completed the PowerShell 5 Essential training through LinkedIn Learning. </li>
+    <li>IBy completing the PowerShell 5 Essential training through LinkedIn Learning, I gained an understanding of how to run various commands called cmdlets. Many of these commands were centered around being run as an administrator to access and automate Windows features. The get-help command was one of the most useful commands which showed proper syntax for various commands. </li>
   </ul>
   <img src="Powershell.png" alt="another cert">
 <br>

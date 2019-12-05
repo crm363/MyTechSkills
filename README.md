@@ -55,7 +55,7 @@ Below are courses I have completed on lab.github.com/courses:
 <details><summary>PowerShell</summary>
 <br>
   <ul>
-    <li>IBy completing the PowerShell 5 Essential training through LinkedIn Learning, I gained an understanding of how to run various commands called cmdlets. Many of these commands were centered around being run as an administrator to access and automate Windows features. The get-help command was one of the most useful commands which showed proper syntax for various commands. </li>
+    <li>By completing the PowerShell 5 Essential training through LinkedIn Learning, I gained an understanding of how to run various commands called cmdlets. Many of these commands were centered around being run as an administrator to access and automate Windows features. The get-help command was one of the most useful commands which showed proper syntax for various commands. </li>
   </ul>
   <img src="Powershell.png" alt="another cert">
 <br>

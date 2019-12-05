@@ -20,11 +20,11 @@ Below are courses I have completed on lab.github.com/courses:
 <br>
 <ul>
   <li> I completed the course Analyzing and Visualizing Data with Power BI on edX.org (below is the course overview). By completing this course, I learned how to upload and manipulate data, define relationships of data and edit queries. I also learned to connect to external data from sources like SQL on Azure.</li>
-  <li> <a href="https://youtu.be/HLRVrwNOCmI">Dashboard Video </a>  </li>
   </ul>
 <img src="Power BI.png" alt="BI">
  <ul>
    <li>This training culminated with me creating a custom dashboard from a set of assigned data. This dashboard was then shared to be used on various platforms. From this course, I gained an overall understanding of how to manipulate and vizualize data for the purpose of creating an effective and efficient dashboard.</li>
+   <li> <a href="https://youtu.be/HLRVrwNOCmI">Dashboard Video </a>  </li>
   </ul>
 <img src="Dashboard.png" alt="Dash">
 <br>

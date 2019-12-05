@@ -12,7 +12,7 @@ Below are courses I have completed on lab.github.com/courses:
   <li> First Day on GitHub </li>
   <li> First Week on Github </li>
 </ul>
-Through these trainings, I learned how to create my own webpage on GitHub and make it viewable to the public. I also learned how to navigate the GitHub workflow which took a bit of practice. I worked on creating, reviewing, and accepting pull requests as well as managing and resolving merge conflicts.
+  <li>Through these trainings, I learned how to create my own webpage on GitHub and make it viewable to the public. I also learned how to navigate the GitHub workflow which took a bit of practice. I worked on creating, reviewing, and accepting pull requests as well as managing and resolving merge conflicts.</li>
 <br>
 </details>
 

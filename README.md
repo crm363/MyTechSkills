@@ -69,7 +69,11 @@ Below are courses I have completed on lab.github.com/courses:
 
 <details><summary>Trailhead Salesforce</summary>
 <br>
-[Insert skills here]
+  <ul>
+    <li>I completed the Trailhead Salesforce Admin Beginner cource which introduced me to the basics of the platform. Salesforce is useful for managing lead and customer data. I learned to effectively model data, create and customize the Lightning app, personalize the mobile app experience, and visualize data by creating reports and dashboards. See examples below.</li>
+  </ul>
+  <img src="Report.png" alt="report">
+  <img src="Dash.png" alt="dash">
 <br>
 <br>
 </details>

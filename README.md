@@ -50,7 +50,7 @@ Below are courses I have completed on lab.github.com/courses:
 <br>
   <ul>
     <li>I completed the AWS Essentials training course on LinuxAcademy.com. I Learned the basics of Amazon Management Console, Identity and Access Management (IAM), Virtual Private Cloud, Elastic Cloud Compute, Simple Storage Service, Simple Notification System, CloudWatch and CloudTrail management tools, and serverless computing.</li>
-    <li>Through the AWS EC2 Management Console, I installed an OpenVPN Access Server. I then configured the server with various secruity settings, established an elastic IP address, and established an SSH connection through my local terminal. I had to make adjustments to the Key Pair permissions using the command line on my local terminal in order to properly connect to the OpenVPN server. Next, to test the server, I openned the server in my web browser to update a few settings and add users. Lastly, I connected to the VPN using the OpenVPN Connect client. </li>
+    <li>I used THIS <a href="https://aws.amazon.com/blogs/awsmarketplace/setting-up-openvpn-access-server-in-amazon-vpc/">this</a> tutorial to setup a VPN through AWS. Through the AWS EC2 Management Console, I installed an OpenVPN Access Server. I then configured the server with various secruity settings, established an elastic IP address, and established an SSH connection through my local terminal. I had to make adjustments to the Key Pair permissions using the command line on my local terminal in order to properly connect to the OpenVPN server. Next, to test the server, I openned the server in my web browser to update a few settings and add users. Lastly, I connected to the VPN using the OpenVPN Connect client. </li>
   </ul>
   <img src="AWS Cert.png" alt="awscert">
 <br>

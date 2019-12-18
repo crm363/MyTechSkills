@@ -36,7 +36,7 @@ Below are courses I have completed on lab.github.com/courses:
 <details><summary>Linux</summary>
 <br>
   <ul>
-  <li> On LinuxAcademy.com, I completed the course LPI Linux Essentials course. Through this course I learned the basics of the Linux comamnd lines including beginner commands along with their respective tacs, commands to change directories and modify files, commands to view system information, and commands to view and alter users and groups along with permissions. </li>
+  <li> On LinuxAcademy.com, I completed the course LPI Linux Essentials. Through this course, I learned the basics of the Linux comamnd lines including beginner commands along with their respective parameters, commands to change directories and modify files, commands to view system information, and commands to view and alter users and groups along with permissions. </li>
   <li>Also on Linux, I used Virtual Box and Ubuntu to create my own VPN using Algo VPN scripts. I followed a tuturoial provided by trailofbits on GitHub. Through the tutorial provided, I was able to deploy an Algo server, configure VPN clients, create/delete users, and set up a tunnel by using WireGaurd.</li>
   </ul>
 <img src="Linux.png" alt="cert">

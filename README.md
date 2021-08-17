@@ -1,5 +1,5 @@
-<h1> MyTechSkills </h1>
-Hi, I'm Colin Morgan; I am a MAcc student at the University of Tulsa. Here is a list of my technical skills!
+<h1> Colin's Tech Skills </h1>
+Hi, I'm Colin Morgan; I am a graduate from the University of Tulsa. This is a list of technical skills I learned while in graduate school!
 
 <h3> Technical Skills </h3>
 
